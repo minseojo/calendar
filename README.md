@@ -22,7 +22,7 @@ getMinutes():	0에서 59까지의 정수 분을 리턴
 
 getSeconds():	0에서 59까지의 정수 초를 리턴
 
-****
+***
 innerHTML 함정: https://oniondev.tistory.com/17 
 
 => innerHTML은 처음에 가지고 있던 HTML내용을 전부 없애고 재설정 함. -> 요소(element)의 내용을 변경하는 대신 HTML을 문서(document)에 삽입하려면, insertAdjacentHTML() 메서드를 사용하십시오.
