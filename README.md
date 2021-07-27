@@ -5,11 +5,11 @@ https://minseojo.github.io/calendar/
 2021-07-03 달력 프레임 완성 (일정 추가 만들 예정)
 ***
 2021-07-27 테이블로 구현된 날짜를 어떻게 바꾸면 효율적일지 생각 함 (일정 추가 만들기 전)
-
+***
 Before
 
 ![image](https://user-images.githubusercontent.com/64322765/127111947-55f38c0f-44bb-433d-a889-1d0fdb228576.png)
-
+***
 After
 
 ![image](https://user-images.githubusercontent.com/64322765/127111786-51d35e01-e424-48f9-acf8-1794366e21de.png)
