@@ -5,7 +5,7 @@ https://minseojo.github.io/calendar/
 2021-07-03 달력 프레임 완성 (일정 추가 만들 예쩡)
 
 2021-07-27 테이블로 구현된 날짜를 어떻게 바꾸면 효율적일지 생각 함 (일정 추가 만들기 전)
-![image](https://user-images.githubusercontent.com/64322765/127111749-d2e876c3-a789-42b4-b952-2f81156f5d51.png)
+![image](https://user-images.githubusercontent.com/64322765/127111786-51d35e01-e424-48f9-acf8-1794366e21de.png)
 
 ***
 getYear():	연도를 리턴
