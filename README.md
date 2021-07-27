@@ -6,7 +6,7 @@ https://minseojo.github.io/calendar/
 
 2021-07-27 테이블로 구현된 날짜를 어떻게 바꾸면 효율적일지 생각 함 (일정 추가 만들기 전)
 
-![image](https://user-images.githubusercontent.com/64322765/127111947-55f38c0f-44bb-433d-a889-1d0fdb228576.png) -> ![image](https://user-images.githubusercontent.com/64322765/127111786-51d35e01-e424-48f9-acf8-1794366e21de.png)
+![image](https://user-images.githubusercontent.com/64322765/127111947-55f38c0f-44bb-433d-a889-1d0fdb228576.png) --------> ![image](https://user-images.githubusercontent.com/64322765/127111786-51d35e01-e424-48f9-acf8-1794366e21de.png)
 
 특정 날짜에 마우스홀더 -> 왼쪽 위에 +버튼 -> +버튼 누르면 새로운 페이지가 생성(일정). -> 페이지에 글을 작성 후 버튼 형식으로 페이지의 제목이 나옴.
 
